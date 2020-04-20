@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "backend api for financial app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tiberiusuciu/Financial.git"
+  },
+  "keywords": [
+    "finance"
+  ],
+  "author": "Tiberiu Cristian Suciu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tiberiusuciu/Financial/issues"
+  },
+  "homepage": "https://github.com/tiberiusuciu/Financial#readme"
+}
