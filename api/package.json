@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tiberiusuciu/Financial/issues"
   },
-  "homepage": "https://github.com/tiberiusuciu/Financial#readme"
+  "homepage": "https://github.com/tiberiusuciu/Financial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
